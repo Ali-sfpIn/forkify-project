@@ -1,3 +1,3 @@
-# forkify jonas course last project
+#Ali Koolivand Portfolio
 
-it is an online recipe website with the ability to add your customize recipe
+well i try to make this portfolio as simple as possible,but even in this simple version-which i'll improved it later on!-i put some magic so lets get started...;)
